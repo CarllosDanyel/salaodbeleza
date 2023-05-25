@@ -1,0 +1,33 @@
+body{
+    font-size: medium;
+    font-family: sans-serif;
+
+}
+#mae{
+   
+    width: 350px;
+    height: 1500px;
+    display: flex;
+    padding: 20px;
+    font-size: 20px;
+
+}
+#d1{
+    background-color: bisque;
+    width: 350px;
+    height: 1500px;
+    padding: 20px;
+    left: 100%;
+    
+}
+#d2{
+    background-color: brown;
+    width: 350px;
+    height: 1500px;
+    padding: 20px;
+    
+
+    
+}
+
+
